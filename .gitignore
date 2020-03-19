@@ -1,0 +1,10 @@
+target
+WebContent
+velocity.log
+*.iml
+.project
+.classpath
+.settings
+.git
+*.log
+.idea
