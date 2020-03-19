@@ -58,7 +58,7 @@ Smart Retry主要是用来进行方法重试的。和Guava Retry、Spring Retry�
 
 ## 如何使用
 * 本工具只适合在Spring项目中使用，Spring依赖至少包含（spring-context-support、spring-aop、spring-jdbc）
-* 在项目中引入maven依赖、对应的数据库驱动
+* 在项目中引入maven依赖。最新版本已经deploy到maven的中央仓库了[查看最新版](https://search.maven.org/search?q=g:com.github.hadoop002.smartretry)
 
         <dependency>
             <groupId>com.github.hadoop002.smartretry</groupId>
